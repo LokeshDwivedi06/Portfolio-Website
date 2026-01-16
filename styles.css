@@ -296,7 +296,7 @@ section {
   left: 10px;
   right: 10px;
   bottom: 10px;
-  background: url("assets/imgs/mine.jpg") center/cover;
+  background: url("assets/imgs/Mine.jpg") center/cover;
   border-radius: calc(var(--border-radius) - 10px);
 }
 
@@ -977,4 +977,5 @@ textarea.form-control {
   50% { border-color: #35ffff; }
   100% { border-color: transparent; }
 }
+
 
